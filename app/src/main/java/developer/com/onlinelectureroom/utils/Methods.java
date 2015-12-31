@@ -368,7 +368,7 @@ public class Methods {
             txt.setError(msgOnError);
         } else {
             if (str.length() < 6) {
-                txt.setError("Entered Value should be greater than 6");
+                txt.setError("Password is too short");
             } else {
                 if (str.contains(" ")) {
 
