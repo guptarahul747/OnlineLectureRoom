@@ -36,6 +36,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="developer.com.onlinelectureroom.activities.MainActivity" />
         </activity>
+
+        <activity
+            android:name=".activities.EventListActivity"
+            android:label="@string/title_activity_event">
+        </activity>
     </application>
 
 </manifest>

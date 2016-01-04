@@ -4,6 +4,7 @@
     <string name="register">Register</string>
     <string name="title_activity_login">Sign in</string>
     <string name="title_activity_register">Register</string>
+    <string name="title_activity_event">Event List</string>
 
 
     <string name="errorNoInternet">No internet connection try again later</string>
@@ -47,5 +48,10 @@
         <item>Electrical</item>
         <item>Mechanical</item>
         <item>Electronics &amp; Telecommunication</item>
+    </string-array>
+
+    <string-array name="tabs">
+        <item>Upcoming Events </item>
+        <item>Events </item>
     </string-array>
 </resources>
